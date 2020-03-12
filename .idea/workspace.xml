@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f3bb2dd-fbc3-4b11-8c65-044b4e2908c0" name="Default Changelist" comment="" />
+    <list default="true" id="6f3bb2dd-fbc3-4b11-8c65-044b4e2908c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/camion.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/camion2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/camion3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/equipo.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/equipo2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/limpieza.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/limpieza2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/limpieza3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about-extra-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about-extra-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about-img.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/header-bg.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/intro-img.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/app1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/app2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/app3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/card1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/card2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/card3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/web1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/web2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/web3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,16 +41,36 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="dantealexf &lt;jhonalexanderfonseca1993@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YoPc8OObyCRTehU47E6vlTqL9r" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -36,16 +85,33 @@
       <workItem from="1583606051623" duration="2883000" />
       <workItem from="1583871251047" duration="1537000" />
       <workItem from="1583957232834" duration="9096000" />
+      <workItem from="1583990613967" duration="4857000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="616" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1583969910826">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state x="306" y="0" key="CommitChangelistDialog2" timestamp="1583995711292">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="306" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1583995711292" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1583991632395">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1583991632395" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1583991654465">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1583991654465" />
+    <state x="438" y="245" key="com.intellij.ide.util.TipDialog" timestamp="1583990613953">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="438" y="245" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1583990613953" />
     <state x="616" y="381" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1583969910826" />
   </component>
 </project>
