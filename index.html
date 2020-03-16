@@ -145,7 +145,8 @@ Header
                     <div class="icon-box wow fadeInUp" data-wow-delay="0.4s">
                         <div class="icon"><i class="fa fa-fire"></i></div>
                         <h4 class="title"><a href="">Incineración</a></h4>
-                            <p class="description">Contamos con una alianza estratégica para la correcta manipulación de desechos al momento de incinerarlos.</p>
+                        <p class="description">Contamos con una alianza estratégica para la correcta manipulación de
+                            desechos al momento de incinerarlos.</p>
                     </div>
 
                 </div>
@@ -366,6 +367,7 @@ Header
                         <li data-filter=".filter-limpieza">Limpieza</li>
                         <li data-filter=".filter-camiones">Camiones</li>
                         <li data-filter=".filter-equipo">Equipo</li>
+                        <li data-filter=".filter-noticia">Noticia</li>
                     </ul>
                 </div>
             </div>
@@ -475,21 +477,29 @@ Header
                     </div>
                 </div>
 
-                <!--<div class="col-lg-4 col-md-6 portfolio-item filter-web" data-wow-delay="0.2s">
+                <div class="col-lg-4 col-md-6 portfolio-item filter-noticia" data-wow-delay="0.2s">
                     <div class="portfolio-wrap">
-                        <img src="img/portfolio/web1.jpg" class="img-fluid" alt="">
+                        <img src="img/portfolio/Noticia.jpeg" class="img-fluid" alt="">
                         <div class="portfolio-info">
-                            <h4><a href="#">Web 1</a></h4>
-                            <p>Web</p>
                             <div>
-                                <a href="img/portfolio/web1.jpg" class="link-preview" data-lightbox="portfolio"
-                                   data-title="Web 1" title="Preview"><i class="ion ion-eye"></i></a>
-                                <a href="#" class="link-details" title="More Details"><i
-                                        class="ion ion-android-open"></i></a>
+                                <a href="img/portfolio/Noticia.jpeg" class="link-preview" data-lightbox="portfolio"
+                                   data-title="Noticia COVID-19" title="Noticia COVID-19"><i class="ion ion-eye"></i></a>
                             </div>
                         </div>
                     </div>
-                </div>-->
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-noticia" data-wow-delay="0.2s">
+                    <div class="portfolio-wrap">
+                        <img src="img/portfolio/Noticia2.jpeg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <div>
+                                <a href="img/portfolio/Noticia2.jpeg" class="link-preview" data-lightbox="portfolio"
+                                   data-title="Noticia COVID-19" title="Noticia COVID-19"><i class="ion ion-eye"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
             </div>
 
@@ -890,9 +900,33 @@ Header
 <script src="lib/lightbox/js/lightbox.min.js"></script>
 <!-- Contact Form JavaScript File -->
 <script src="contactform/contactform.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
 
 <!-- Template Main Javascript File -->
 <script src="js/main.js"></script>
+<script>
+    $(document).ready(function () {
+        Swal.fire({
+            title: '<strong>Comunicado sobre<u> COVID-19 </u></strong>',
+            icon: 'info',
+            html:
+                'Se informa que la empresa <b>LASPATH ESP</b> es una empresa única originaria de la ' +
+                'región especializada en manejo de desechos peligrosos de todo tipo, principalmente patógenos. ' +
+                'Manejamos todas las medidas de seguridad para prevenir el contagio y propagación del virus COVID-19, ' +
+                'utilizando todas le medidas recomendadas por el <a href="https://www.minsalud.gov.co/salud/publica/PET/Paginas/Covid-19_copia.aspx">ministerio de salud</a>. Si alguien tiene requerimientos ' +
+                'especiales sobre el tema, por este <a href="https://wa.me/573203962355">WhatsApp</a> 24 horas disponibles. ',
+            showCloseButton: true,
+            showCancelButton: true,
+            focusConfirm: false,
+            confirmButtonText:
+                '<i class="fa fa-thumbs-up"></i> OK!',
+            confirmButtonAriaLabel: 'Thumbs up, great!',
+            cancelButtonText:
+                '<i class="fa fa-close"></i>',
+            cancelButtonAriaLabel: 'Thumbs down'
+        })
+    });
+</script>
 
 </body>
 </html>
